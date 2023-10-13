@@ -1,0 +1,301 @@
+product_id,wine_type,wine_name,wine_origin,rating_avg,rating_num,price_current,price_prediscount,discount_nom,savings_percent
+1405250,Malbec,Chateau Du Caillau Cahors 2021,"Cahors, Southwest, France",5.0,19,15,39,$23.01,59
+1358914,Tempranillo,Bodegas Lan D-12 2019,"Rioja, Spain",4.8,28,10,19,$2.01,15
+1288787,Other Red Blends,Bodegas La Purisma Old Vines Red Blend 2019,"Yecla, Spain",4.3,61,22,13,$7.01,23
+1301819,Tempranillo,Eguren Ugarte Cosecha 2021,"Rioja, Spain",4.6,27,11,10,$6.01,33
+1384660,Gamay,Domaine Gilles Coperet Brouilly Saburin 2021,"Beaujolais, Burgundy, France",4.4,12,29,18,$5.01,14
+1308645,Gamay,Domaine Gilles Coperet Morgon 2021,"Beaujolais, Burgundy, France",4.3,47,18,18,$6.01,24
+1306213,Barbera,Tenute Neirano Barbera D'Asti Superiore Tirteo 2020,"Asti, Piedmont, Italy",4.5,38,18,11,$2.01,10
+1227876,Other Red Blends,Vignobles Marie Maria Greviere Madiran 2018,"Southwest, France",4.3,57,14,15,$2.01,12
+1162494,Zinfandel,Scott Harvey Mountain Selection Zinfandel 2020,"Amador, Sierra Foothills, California",4.6,20,,30,,
+1431916,Montepulciano,Podere Castorani Montepulciano d'Abruzzo Cadetto 2018,"Abruzzo, Italy",4.7,23,,18,,
+903856,Tempranillo,Emilio Moro Malleolus de Valderramiro 2019,"Ribera del Duero, Spain",5.0,15,,159,,
+1298793,Dolcetto,Rocca Giovanni Dolcetto D'Alba Vigna Sant' Anna 2022,"Alba, Piedmont, Italy",4.6,27,,13,,
+1221680,Nebbiolo,Adriano Marco e Vittorio Sanadaive Barbaresco 2019,"Barbaresco, Piedmont, Italy",4.4,51,,35,,
+959286,Syrah/Shiraz,Leeuwin Estate Art Series Shiraz 2018,"Margaret River, Western Australia, Australia",4.2,8,,34,,
+1412785,Other Red Blends,Zeni Costalago Rosso Veronese 2020,"Verona, Veneto, Italy",4.8,18,,15,,
+1352917,Gamay,Domaine Gilles Coperet Fleurie La Madone 2021,"Beaujolais, Burgundy, France",4.1,32,,18,,
+779654,Tempranillo,PenaMonte Seleccion 2016,"Toro, Spain",4.3,76,,11,,
+1344214,Malbec,Georges Vigouroux Chateau Leret Monpezat Malbec 2016,"Cahors, Southwest, France",4.7,13,,24,,
+1041666,Tempranillo,Sierra Cantabria Seleccion 2020,"Rioja, Spain",4.2,12,,12,,
+817065,Sangiovese,Barone Ricasoli Brolio Chianti Classico 2019,"Chianti Classico, Chianti, Tuscany, Italy",4.4,61,,23,,
+1233612,Cabernet Sauvignon,Ammunition Cabernet Sauvignon 2020,"Paso Robles, Central Coast, California",4.1,69,,25,,
+1131511,Sangiovese,La Lecciaia Toscana Rosso 2016,"Tuscany, Italy",4.2,50,,11,,
+1233626,Pinot Noir,Ammunition Pinot Noir 2020,"Sonoma County, California",4.5,57,,21,,
+787001,Other Red Blends,Palacios Remondo La Vendimia 2019,"Rioja, Spain",4.2,47,,17,,
+1301830,Tuscan Blends,Michele Satta Bolgheri Rosso 2021,"Bolgheri, Tuscany, Italy",4.7,36,,27,,
+876609,Cabernet Sauvignon,Don Melchor Cabernet Sauvignon 2019,"Maipo Valley, Chile",4.1,38,124,150,$25.01,17
+763637,Rhone Red Blends,Chateau Saint-Roch Cotes du Roussillon Kerbuccio Maury Sec 2018,"Maury, Roussillon, South of France, France",3.8,9,24,31,$6.02,19
+1145574,Bordeaux Red Blends,Chateau Latour (1 Bottle in OWC) 2010,"Pauillac, Bordeaux, France",0.0,0,56,"1,499",$3.00,5
+117139,Bordeaux Red Blends,Dominus Estate 2009,"Yountville, Napa Valley, California",4.5,20,21,349,$3.01,12
+583739,Bordeaux Red Blends,Chateau Lafite Rothschild 2019,"Pauillac, Bordeaux, France",4.7,25,42,989,$17.01,28
+1176088,Other Red Blends,The Prisoner Wine Company The Prisoner Red Blend 2021,California,4.6,71,19,59,$13.01,39
+1069468,Cabernet Sauvignon,Decoy California Cabernet Sauvignon 2020,California,4.2,84,36,25,$18.01,33
+534558,Sangiovese,Castellani Sangiovese 2016,"Tuscany, Italy",4.1,2064,16,17,$23.01,58
+746642,Bordeaux Red Blends,Chateau Les Gravieres 2020,"St. Emilion, Bordeaux, France",3.7,31,89,29,$11.01,11
+1136909,Nerello Mascalese,Tornatore Pietrarizzo Etna Rosso 2019,"Sicily, Italy",3.6,19,14,60,$13.01,46
+583845,Bordeaux Red Blends,Chateau Pontet-Canet 2019,"Pauillac, Bordeaux, France",4.5,13,29,149,$15.01,33
+1432148,Cabernet Sauvignon,Juggernaut Hillside Cabernet Sauvignon 2021,California,0.0,0,,19,,
+955310,Bordeaux Red Blends,Chateau Latour (1 Bottle in OWC) 2014,"Pauillac, Bordeaux, France",0.0,0,,599,,
+1171412,Sangiovese,Frescobaldi Nipozzano Chianti Rufina Riserva 2019,"Chianti, Tuscany, Italy",3.9,29,,33,,
+746193,Bordeaux Red Blends,Chateau Fontenil 2020,"Fronsac, Bordeaux, France",4.6,8,,27,,
+1104194,Cabernet Sauvignon,Jordan Cabernet Sauvignon 2018,"Alexander Valley, Sonoma County, California",4.6,49,,64,,
+1133016,Sangiovese,Bibbiano Vigna del Capannino Chianti Classico Gran Selezione 2019,"Chianti Classico, Chianti, Tuscany, Italy",4.0,22,,55,,
+1202359,Bordeaux Red Blends,Chateau Haut Gaudin Bordeaux Superieur 2019,"Bordeaux, France",4.3,93,,40,,
+741360,Pinot Noir,Faiveley Mercurey Rouge 2019,"Mercurey, Cote Chalonnaise, Burgundy, France",4.3,23,,37,,
+1456793,Sangiovese,Ruffino Riserva Ducale Oro Chianti Classico Gran Selezione (3 Liter) with Wood Box 2018,"Chianti Classico, Chianti, Tuscany, Italy",0.0,0,,189,,
+1190098,Pinot Noir,Albert Bichot Pommard Clos des Ursulines Domaine du Pavillon Monopole 2019,"Pommard, Cote de Beaune, Cote d'Or, Burgundy, France",0.0,0,,101,,
+938102,Malbec,Sur de los Andes Reserva Malbec 2018,"Mendoza, Argentina",4.2,189,,28,,
+1173521,Cabernet Sauvignon,Robert Mondavi Private Selection Bourbon Barrels Cabernet Sauvignon 2021,"Monterey, Central Coast, California",4.2,57,,16,,
+1032258,Nebbiolo,Terre del Barolo Vinum Vita Est Barolo 2016,"Barolo, Piedmont, Italy",4.1,114,,45,,
+1166405,Pinot Noir,Domaine Prieur-Brunet Santenay Maladiere Premier Cru 2020,"Santenay, Cote de Beaune, Cote d'Or, Burgundy, France",0.0,0,,55,,
+1133610,Cabernet Sauvignon,Quintessa (375ML half-bottle) 2019,"Rutherford, Napa Valley, California",0.0,0,549,129,$20.01,4
+1387479,Cabernet Sauvignon,Spottswoode Cabernet Sauvignon 2020,"St. Helena, Napa Valley, California",0.0,0,,254,,
+1111481,Cabernet Sauvignon,Quintessa 2019,"Rutherford, Napa Valley, California",4.6,39,,234,,
+1001254,Cabernet Sauvignon,Lail J. Daniel Cuvee Cabernet Sauvignon 2019,"Napa Valley, California",0.0,0,,299,,
+1166321,Cabernet Sauvignon,Beaulieu Vineyard Georges de Latour Private Reserve 2019,"Napa Valley, California",4.4,64,,165,,
+202479,Bordeaux Red Blends,Chateau Mouton Rothschild 2016,"Pauillac, Bordeaux, France",4.5,54,,949,,
+1309759,Bordeaux Red Blends,Chateau Haut-Bailly (Futures Pre-Sale) 2022,"Pessac-Leognan, Bordeaux, France",0.0,0,,159,,
+789279,Cabernet Sauvignon,Paul Hobbs Beckstoffer Dr. Crane Vineyard Cabernet Sauvignon 2019,"St. Helena, Napa Valley, California",0.0,0,,299,,
+929908,Bordeaux Red Blends,Continuum 2019,"Napa Valley, California",4.8,36,,294,,
+1308082,Bordeaux Red Blends,Chateau Cheval Blanc (Futures Pre-Sale) 2022,"St. Emilion, Bordeaux, France",0.0,0,,669,,
+583740,Bordeaux Red Blends,Chateau Lafite Rothschild (1.5 Liter Magnum) 2019,"Pauillac, Bordeaux, France",0.0,0,,"1,989",,
+1308893,Bordeaux Red Blends,Vieux Chateau Certan (Futures Pre-Sale) 2022,"Pomerol, Bordeaux, France",0.0,0,,379,,
+1308733,Bordeaux Red Blends,Chateau Pontet-Canet (Futures Pre-Sale) 2022,"Pauillac, Bordeaux, France",4.3,8,,129,,
+840386,Rhone Red Blends,Chateau de Beaucastel Hommage Jacques Perrin Chateauneuf-du-Pape 2019,"Chateauneuf-du-Pape, Rhone, France",0.0,0,,570,,
+1307959,Bordeaux Red Blends,Chateau Leoville Poyferre (Futures Pre-Sale) 2022,"St-Julien, Bordeaux, France",0.0,0,,116,,
+583878,Bordeaux Red Blends,Chateau Valandraud 2019,"St. Emilion, Bordeaux, France",4.3,5,,169,,
+1017295,Bordeaux Red Blends,Chateau Ausone (Futures Pre-Sale) 2021,"St. Emilion, Bordeaux, France",0.0,0,,749,,
+1308115,Bordeaux Red Blends,Chateau Cos d'Estournel (Futures Pre-Sale) 2022,"St. Estephe, Bordeaux, France",0.0,0,,249,,
+1145574,Bordeaux Red Blends,Chateau Latour (1 Bottle in OWC) 2010,"Pauillac, Bordeaux, France",0.0,0,,"1,499",,
+583739,Bordeaux Red Blends,Chateau Lafite Rothschild 2019,"Pauillac, Bordeaux, France",4.7,25,,989,,
+202370,Bordeaux Red Blends,Chateau Haut-Brion 2016,"Pessac-Leognan, Bordeaux, France",4.2,26,,789,,
+1307908,Bordeaux Red Blends,Chateau Lafite Rothschild (Futures Pre-Sale) 2022,"Pauillac, Bordeaux, France",0.0,0,,759,,
+1198881,Tempranillo,Bodegas Muga Aro 2019,"Rioja, Spain",0.0,0,,389,,
+1308699,Bordeaux Red Blends,Chateau Pichon Longueville Comtesse de Lalande (Futures Pre-Sale) 2022,"Pauillac, Bordeaux, France",0.0,0,,244,,
+1308014,Bordeaux Red Blends,Chateau Mouton Rothschild (Futures Pre-Sale) 2022,"Pauillac, Bordeaux, France",0.0,0,,699,,
+962513,Pinot Noir,Louis Latour Gevrey-Chambertin 2019,"Gevrey-Chambertin, Cote de Nuits, Cote d'Or, Burgundy, France",5.0,23,99,107,$7.01,7
+933227,Pinot Noir,Louis Latour Nuits-Saint-Georges 2019,"Gevrey-Chambertin, Cote de Nuits, Cote d'Or, Burgundy, France",5.0,20,114,99,$7.01,6
+980688,Pinot Noir,Louis Latour Vosne-Romanee 2019,"Vosne-Romanee, Cote de Nuits, Cote d'Or, Burgundy, France",5.0,20,42,122,$2.01,4
+1452957,Pinot Noir,Domaine Roux Pere & Fils Chambolle-Musigny Vieilles Vignes 2021,"Chambolle-Musigny, Cote de Nuits, Cote d'Or, Burgundy, France",5.0,13,169,99,$10.01,6
+1442452,Tempranillo,Bodegas Lan Xtreme Ecologico Crianza 2019,"Rioja, Spain",5.0,9,129,19,$18.01,12
+1298794,Nebbiolo,Rocca Giovanni Barolo 2019,"Barolo, Piedmont, Italy",5.0,20,15,41,$23.01,59
+1424929,Sangiovese,La Lecciaia Brunello di Montalcino 2017,"Montalcino, Tuscany, Italy",5.0,17,,45,,
+1477011,Barbera,Coppo Camp du Rouss Barbera d'Asti 2020,"Asti, Piedmont, Italy",5.0,19,,24,,
+1098418,Pinot Noir,Louis Latour Corton Clos de la Vigne au Saint Grand Cru 2019,"Aloxe-Corton, Cote de Beaune, Cote d'Or, Burgundy, France",5.0,13,,180,,
+1194943,Rhone Red Blends,M. Chapoutier Chateauneuf-du-Pape La Bernardine 2020,"Chateauneuf-du-Pape, Rhone, France",5.0,21,,64,,
+1448632,Tempranillo,Emilio Moro Finca Resalso 2022,"Ribera del Duero, Spain",5.0,12,,14,,
+1013392,Sangiovese,Bibi Graetz Testamatta 2020,"Tuscany, Italy",5.0,14,,119,,
+1530203,Rhone Red Blends,Domaine du Pere Caboche Vin De Pays de Vaucluse Rouge 2022,France,5.0,12,,11,,
+982033,Pinot Noir,Louis Latour Volnay En Chevret Premier Cru 2019,"Volnay, Cote de Beaune, Cote d'Or, Burgundy, France",5.0,21,,148,,
+1301837,Barbera,Coppo Nizza Pomorosso 2019,"Asti, Piedmont, Italy",5.0,18,,59,,
+1485882,Pinot Noir,Domaine Roux Pere & Fils Les Cotilles Pinot Noir 2022,"Vin de France, France",5.0,14,,15,,
+1340075,Pinot Noir,Domaine Roux Pere & Fils Nuits-Saint-Georges 2021,"Nuits-St-Georges, Cote de Nuits, Cote d'Or, Burgundy, France",5.0,20,,61,,
+1405250,Malbec,Chateau Du Caillau Cahors 2021,"Cahors, Southwest, France",5.0,19,,39,,
+1351675,Bordeaux Red Blends,Pym-Rae Tesseron Estate 2018,"Mt. Veeder, Napa Valley, California",5.0,21,,369,,
+786281,Rhone Red Blends,Gerard Bertrand Clos d'Ora Rouge 2017,"Minervois La Liviniere, Minervois, Languedoc, South of France, France",5.0,7,,259,,
+1255275,Other Red Blends,Rocca Giovanni Langhe Rosso Rucat 2021,"Langhe, Piedmont, Italy",5.0,19,,17,,
+1381699,Pinot Noir,Clos Henri Waimaunga Pinot Noir 2020,"Marlborough, New Zealand",5.0,17,,34,,
+1393334,Grenache,Domaine des Peres de l'Eglise Chateauneuf-du-Pape Heritage de Pollus 2019,"Chateauneuf-du-Pape, Rhone, France",5.0,6,,61,,
+648793,Bordeaux Red Blends,Pym-Rae Tesseron Estate 2016,"Mt. Veeder, Napa Valley, California",5.0,22,,339,,
+1463252,Rhone Red Blends,La Pena de Espana Tinto 2021,"Valencia, Spain",5.0,18,,11,,
+1278494,Pinot Noir,Cono Sur Bicicleta Pinot Noir 2021,Chile,0.0,0,7,7,$1.00,11
+510367,Cabernet Sauvignon,Two Vines Cabernet Sauvignon,Washington,3.7,158,8,7,$1.01,10
+813553,Cabernet Sauvignon,Stone Cellars Cabernet Sauvignon 2018,California,3.3,7,8,7,$1.01,10
+907837,Cabernet Sauvignon,Vino de Eyzaguirre Cabernet Sauvignon 2020,"Colchagua Valley, Rapel Valley, Chile",0.0,0,,7,,
+96553,Cabernet Sauvignon,Stone Cellars Cabernet Sauvignon,Spain,3.6,29,,7,,
+1268974,Malbec,Trapiche Alaris Malbec 2021,Argentina,0.0,0,,7,,
+874173,Merlot,Stone Cellars Merlot 2020,California,0.0,0,,7,,
+964937,Tempranillo,El Coto Crianza (375ML half-bottle) 2018,"Rioja, Spain",4.0,8,,7,,
+773319,Cabernet Sauvignon,Fetzer Cabernet Sauvignon,Other U.S.,3.7,12,,8,,
+1153834,Cabernet Sauvignon,Cono Sur Bicicleta Cabernet Sauvignon 2021,Chile,0.0,0,,7,,
+1271465,Montepulciano,Donini Montepulciano d'Abruzzo 2021,"Abruzzo, Italy",0.0,0,,7,,
+124739,Cabernet Sauvignon,Pepperwood Grove Cabernet Sauvignon,Chile,3.5,216,,8,,
+124742,Merlot,Pepperwood Grove Merlot,Chile,3.8,113,,8,,
+963872,Syrah/Shiraz,Oxford Landing Shiraz 2019,"South Australia, Australia",0.0,0,,8,,
+124735,Pinot Noir,Pepperwood Grove Pinot Noir,Chile,3.6,275,,8,,
+1254625,Cabernet Sauvignon,Avalon Lodi Cabernet Sauvignon 2021,"Lodi, California",0.0,0,,8,,
+745564,Merlot,Vino de Eyzaguirre Merlot 2019,"Colchagua Valley, Rapel Valley, Chile",3.7,6,,8,,
+721302,Bonarda,Altos las Hormigas Colonia Las Liebres Bonarda 2020,Argentina,3.7,56,,10,,
+1190021,Rhone Red Blends,La Vieille Ferme Rouge 2021,France,4.1,15,,8,,
+1381604,Montepulciano,Casata Parini Montepulciano d'Abruzzo 2022,"Abruzzo, Italy",4.8,12,,8,,
+1463330,Merlot,Vino de Eyzaguirre Merlot 2022,"Colchagua Valley, Rapel Valley, Chile",0.0,0,,8,,
+1214931,Merlot,Oxford Landing Merlot 2021,"South Australia, Australia",0.0,0,,8,,
+1091106,Tempranillo,Dominio de Eguren Protocolo Tinto 2020,Spain,3.8,40,,10,,
+988044,Cabernet Sauvignon,Avalon Lodi Cabernet Sauvignon 2020,"Lodi, California",3.7,6,,8,,
+1241942,Merlot,Indaba Merlot 2022,South Africa,0.0,0,,8,,
+583740,Bordeaux Red Blends,Chateau Lafite Rothschild (1.5 Liter Magnum) 2019,"Pauillac, Bordeaux, France",0.0,0,1499,"1,989",$100.01,6
+1145574,Bordeaux Red Blends,Chateau Latour (1 Bottle in OWC) 2010,"Pauillac, Bordeaux, France",0.0,0,,"1,499",,
+849151,Pinot Noir,Domaine Ponsot Clos de la Roche Grand Cru Vieilles Vignes (1.5 Liter Magnum) 2016,"Morey-St-Denis, Cote de Nuits, Cote d'Or, Burgundy, France",0.0,0,,"1,600",,
+1017643,Bordeaux Red Blends,Chateau Lafite Rothschild (1.5 Liter Futures Pre-Sale) 2021,"Pauillac, Bordeaux, France",0.0,0,,"1,249",,
+1017489,Bordeaux Red Blends,Chateau Haut-Brion (1.5 Liter Futures Pre-Sale) 2021,"Pessac-Leognan, Bordeaux, France",0.0,0,,"1,119",,
+1017476,Bordeaux Red Blends,Chateau Margaux (1.5 Liter Futures Pre-Sale) 2021,"Margaux, Bordeaux, France",0.0,0,,"1,119",,
+1017556,Bordeaux Red Blends,Chateau Mouton Rothschild (1.5 Liter Futures Pre-Sale) 2021,"Pauillac, Bordeaux, France",0.0,0,,"1,119",,
+1017557,Bordeaux Red Blends,Chateau Cheval Blanc (1.5 Liter Futures Pre-Sale) 2021,"St. Emilion, Bordeaux, France",0.0,0,,"1,074",,
+583739,Bordeaux Red Blends,Chateau Lafite Rothschild 2019,"Pauillac, Bordeaux, France",4.7,25,,989,,
+202479,Bordeaux Red Blends,Chateau Mouton Rothschild 2016,"Pauillac, Bordeaux, France",4.5,54,,949,,
+430244,Syrah/Shiraz,Torbreck The Laird 2013,"Barossa Valley, Barossa, South Australia, Australia",0.0,0,,869,,
+202370,Bordeaux Red Blends,Chateau Haut-Brion 2016,"Pessac-Leognan, Bordeaux, France",4.2,26,,789,,
+583624,Bordeaux Red Blends,Chateau Cheval Blanc 2019,"St. Emilion, Bordeaux, France",0.0,0,,789,,
+1307908,Bordeaux Red Blends,Chateau Lafite Rothschild (Futures Pre-Sale) 2022,"Pauillac, Bordeaux, France",0.0,0,,759,,
+783455,Bordeaux Red Blends,Joseph Phelps Insignia (1.5 Liter Magnum) 2018,"Napa Valley, California",0.0,0,,749,,
+1307934,Bordeaux Red Blends,Chateau Ausone (Futures Pre-Sale) 2022,"St. Emilion, Bordeaux, France",0.0,0,,749,,
+1017295,Bordeaux Red Blends,Chateau Ausone (Futures Pre-Sale) 2021,"St. Emilion, Bordeaux, France",0.0,0,,749,,
+583806,Bordeaux Red Blends,Chateau Mouton Rothschild 2019,"Pauillac, Bordeaux, France",4.2,5,,729,,
+1308000,Bordeaux Red Blends,Chateau Margaux (Futures Pre-Sale) 2022,"Margaux, Bordeaux, France",0.0,0,,709,,
+1309901,Bordeaux Red Blends,Chateau Haut-Brion (Futures Pre-Sale) 2022,"Pessac-Leognan, Bordeaux, France",0.0,0,,709,,
+1308014,Bordeaux Red Blends,Chateau Mouton Rothschild (Futures Pre-Sale) 2022,"Pauillac, Bordeaux, France",0.0,0,,699,,
+1308082,Bordeaux Red Blends,Chateau Cheval Blanc (Futures Pre-Sale) 2022,"St. Emilion, Bordeaux, France",0.0,0,,669,,
+955310,Bordeaux Red Blends,Chateau Latour (1 Bottle in OWC) 2014,"Pauillac, Bordeaux, France",0.0,0,,599,,
+1017641,Bordeaux Red Blends,Chateau Lafite Rothschild (Futures Pre-Sale) 2021,"Pauillac, Bordeaux, France",0.0,0,,599,,
+1017475,Bordeaux Red Blends,Chateau Margaux (Futures Pre-Sale) 2021,"Margaux, Bordeaux, France",0.0,0,,565,,
+1405250,Malbec,Chateau Du Caillau Cahors 2021,"Cahors, Southwest, France",5.0,19,15,39,$23.01,59
+743121,Cabernet Franc,Sur de los Andes Reserva Cabernet Franc 2017,"Mendoza, Argentina",3.9,466,13,34,$20.01,59
+1202359,Bordeaux Red Blends,Chateau Haut Gaudin Bordeaux Superieur 2019,"Bordeaux, France",4.3,93,16,40,$23.01,58
+1282310,Tuscan Blends,Falesco Vitiano Rosso 2019,Italy,4.0,18,9,24,$14.01,58
+1132926,Rhone Red Blends,Commanderie des Hospitaliers Grenache Syrah Mourvedre 2020,"Languedoc, South of France, France",4.2,56,18,45,$26.01,58
+1332095,Bordeaux Red Blends,Chateau Haut Peyruguet 2020,"Bordeaux, France",4.2,51,14,35,$20.01,57
+758326,Rhone Red Blends,Cave de Roquebrun Saint Chinian Roquebrun La Granges des Combes 2019,"Saint-Chinian, Languedoc, South of France, France",4.6,48,17,38,$20.01,53
+538677,Rhone Red Blends,Domaine de Fontsainte Corbieres Rouge 2018,"Corbieres, Languedoc, South of France, France",3.6,36,10,22,$11.02,50
+1204256,Bordeaux Red Blends,Chateau Bellevue Peycharneau Bordeaux Superieur 2020,"Bordeaux, France",4.3,84,19,40,$20.01,50
+1233481,Bordeaux Red Blends,Chateau Haut-Colombier 2020,"Bordeaux, France",4.3,59,19,40,$20.01,50
+1170743,Bordeaux Red Blends,Chateau La Perriere Lussac St.-Emilion 2020,"Bordeaux, France",4.5,51,23,45,$21.01,47
+938102,Malbec,Sur de los Andes Reserva Malbec 2018,"Mendoza, Argentina",4.2,189,14,28,$13.01,46
+724107,Bordeaux Red Blends,Sur de los Andes Malbec Cabernet Sauvignon Premium Blend 2017,"Mendoza, Argentina",3.9,757,14,28,$13.01,46
+877817,Other Red Blends,Bodegas Zerran Tinto 2019,"Montsant, Spain",0.0,0,9,18,$8.01,45
+1318716,Cabernet Sauvignon,Shannon Ridge High Elevation Cabernet Sauvignon 2021,"Lake County, North Coast, California",3.6,11,13,25,$11.01,44
+1068322,Petite Sirah,Shannon Ridge High Elevation Petite Sirah 2020,"Lake County, North Coast, California",3.8,33,13,25,$11.01,44
+1254692,Cabernet Sauvignon,Chateau La Freynelle Cabernet Sauvignon 2020,"Bordeaux, France",4.0,53,17,32,$14.01,44
+987794,Cabernet Sauvignon,Vigilance Cabernet Sauvignon 2020,"Red Hills, Lake County, North Coast, California",3.4,51,13,25,$11.01,44
+1321890,Pinot Noir,Lincourt Rancho Santa Rosa Pinot Noir 2021,"Sta. Rita Hills, Santa Barbara, Central Coast, California",0.0,0,24,45,$20.01,44
+617652,Other Red Blends,Vigilance Cimarron 2017,"Lake County, North Coast, California",3.7,135,13,25,$11.01,44
+654906,Bordeaux Red Blends,Chateau Blaignan 2018,"Medoc, Bordeaux, France",4.3,58,22,40,$17.01,43
+1236616,Cabernet Sauvignon,Shannon Ridge Buck Shack Bourbon Barrel Cabernet Sauvignon 2020,"Lake County, North Coast, California",3.8,15,19,35,$15.01,43
+1497414,Bordeaux Red Blends,Chateau Langlet 2020,"Graves, Bordeaux, France",4.8,18,22,40,$17.01,43
+414523,Tempranillo,Benjamin Romeo Predicador Tinto 2014,"Rioja, Spain",3.8,19,21,38,$16.01,42
+984889,Tempranillo,Finca Villacreces Pruno 2019,"Ribera del Duero, Spain",3.5,5,26,45,$18.01,40
+1077742,Sangiovese,Carpineto Chianti Classico Riserva 2018,"Chianti Classico, Chianti, Tuscany, Italy",0.0,0,59,28,$2.01,3
+1487239,Malbec,Dona Paula Los Cardos Malbec 2022,"Mendoza, Argentina",0.0,0,29,13,$10.01,25
+1498938,Cabernet Sauvignon,Dona Paula Estate Cabernet Sauvignon 2021,"Mendoza, Argentina",0.0,0,18,15,$1.01,5
+1458784,Sangiovese,Avignonesi Rosso di Montepulciano 2020,"Montepulciano, Tuscany, Italy",0.0,0,18,19,$3.01,14
+1507865,Rhone Red Blends,Guigal Chateauneuf-du-Pape 2018,"Chateauneuf-du-Pape, Rhone, France",0.0,0,22,62,$3.01,12
+1384352,Merlot,Francis Ford Coppola Diamond Collection Merlot 2021,California,0.0,0,37,19,$2.01,5
+1478237,Pinot Noir,MacRostie Sonoma Coast Pinot Noir 2022,"Sonoma Coast, Sonoma County, California",0.0,0,17,39,$4.00,18
+1526864,Cabernet Sauvignon,Rodney Strong Knights Valley Estate Cabernet Sauvignon 2020,"Knights Valley, Sonoma County, California",0.0,0,,40,,
+1412731,Grenache,Borsao Tres Picos Garnacha 2020,"Campo de Borja, Spain",0.0,0,,20,,
+1157466,Tempranillo,Faustino I Gran Reserva 2011,"Rioja, Spain",3.9,8,,37,,
+1288292,Tempranillo,Bodegas Lan Rioja Gran Reserva 2016,"Rioja, Spain",4.9,19,,23,,
+1232190,Malbec,Zuccardi Q Malbec 2021,"Uco Valley, Mendoza, Argentina",3.8,13,,21,,
+1393318,Cabernet Sauvignon,Napa Cellars Cabernet Sauvignon 2020,"Napa Valley, California",0.0,0,,31,,
+1059479,Grenache,Bodegas Breca Garnacha 2019,"Calatayud, Spain",4.0,89,,22,,
+1241655,Tempranillo,Bodegas Ramirez de la Piscina Reserva 2017,"Rioja, Spain",3.7,13,,26,,
+1097658,Tempranillo,Bodegas Volver La Mancha Single Vineyard Tempranillo 2019,"La Mancha, Spain",4.0,29,,18,,
+1353811,Cabernet Sauvignon,Les Jamelles Cabernet Sauvignon 2021,"Pays d’Oc, South of France, France",0.0,0,,13,,
+1386263,Pinot Noir,Averaen Willamette Valley Pinot Noir 2022,"Willamette Valley, Oregon",0.0,0,,26,,
+962750,Tempranillo,La Rioja Alta Vina Alberdi Reserva Tinto 2018,"Rioja, Spain",3.9,171,,26,,
+1463353,Other Red Wine,Suertes del Marques 7 Fuentes 2020,"Canary Islands, Spain",0.0,0,,21,,
+1487480,Pinot Noir,LOLA Wines California Pinot Noir 2021,California,0.0,0,,24,,
+1515695,Sangiovese,Felsina Berardenga Chianti Classico Riserva 2020,"Chianti Classico, Chianti, Tuscany, Italy",0.0,0,,40,,
+1136093,Tempranillo,Protos Tinto Fino 2020,"Ribera del Duero, Spain",4.4,28,,17,,
+1500366,Grenache,Zestos Old Vine Garnacha 2021,"Vinos de Madrid, Spain",0.0,0,,12,,
+1452925,Malbec,Layer Cake Malbec 2022,"Mendoza, Argentina",0.0,0,,21,,
+75622,Merlot,Conn Creek Limited Release Merlot 2001,"Napa Valley, California",0.0,0,56,31,$3.01,5
+99015,Bordeaux Red Blends,Dominus Estate 2006,"Yountville, Napa Valley, California",4.4,25,64,359,$25.02,28
+539227,Tempranillo,Vinedos de Paganos El Puntido Gran Reserva 2007,"Rioja, Spain",4.0,48,39,69,$5.01,11
+1195014,Tempranillo,Vinedos de Paganos El Puntido Gran Reserva 2008,"Rioja, Spain",0.0,0,419,84,$60.00,13
+117139,Bordeaux Red Blends,Dominus Estate 2009,"Yountville, Napa Valley, California",4.5,20,109,349,$38.01,26
+167452,Tempranillo,Bodegas Ramon Bilbao Gran Reserva 2010,"Rioja, Spain",4.4,10,28,39,$3.01,9
+1067952,Tempranillo,R. Lopez de Heredia Rioja Vina Tondonia Reserva 2010,"Rioja, Spain",4.0,61,32,60,$9.02,21
+1145574,Bordeaux Red Blends,Chateau Latour (1 Bottle in OWC) 2010,"Pauillac, Bordeaux, France",0.0,0,,"1,499",,
+1197496,Tempranillo,Bodegas Montecillo Gran Reserva 2011,"Rioja, Spain",0.0,0,,34,,
+1040501,Tempranillo,Conde de Hervias Rioja 2011,"Rioja, Spain",0.0,0,,84,,
+976292,Tempranillo,Marques de Murrieta Castillo Ygay Gran Reserva Especial 2011,"Rioja, Spain",4.0,9,,289,,
+1157466,Tempranillo,Faustino I Gran Reserva 2011,"Rioja, Spain",3.9,8,,37,,
+517579,Grenache,Cirillo 1850 Grenache 2011,"Barossa Valley, Barossa, South Australia, Australia",4.9,6,,90,,
+831469,Other Red Blends,Guelbenzu EVO 2011,Spain,0.0,0,,31,,
+249844,Sangiovese,Castello di Albola Il Solatio Chianti Classico Gran Selezione 2011,"Chianti Classico, Chianti, Tuscany, Italy",0.0,0,,53,,
+653325,Other Red Blends,Massaya Gold Reserve Rouge 2011,Lebanon,3.9,8,,45,,
+1236629,Tempranillo,R. Lopez de Heredia Rioja Vina Tondonia Reserva 2011,"Rioja, Spain",4.1,12,,59,,
+259587,Cabernet Sauvignon,Heitz Cellar Martha's Vineyard Cabernet Sauvignon (1.5 Liter Magnum) 2012,"Napa Valley, California",0.0,0,,479,,
+970951,Bordeaux Red Blends,Movia Veliko Rosso 2012,Slovenia,0.0,0,,68,,
+1076543,Other Red Blends,Massaya Gold Reserve Rouge 2012,Lebanon,0.0,0,,79,,
+162179,Bordeaux Red Blends,Von Strasser Sori Bricco Vineyard Red 2012,"Diamond Mountain District, Napa Valley, California",0.0,0,,79,,
+565019,Tempranillo,Remelluri Granja Rioja Gran Reserva 2012,"Rioja, Spain",0.0,0,,148,,
+750420,Other Red Blends,La Antigua Clasico Reserva 2012,"Rioja, Spain",3.6,20,,32,,
+676789,Tempranillo,Carlos Serres Gran Reserva 2012,"Rioja, Spain",4.0,24,,34,,
+156097,Cabernet Sauvignon,Balnaves Cabernet Sauvignon 2012,"Coonawarra, South Australia, Australia",3.9,20,,42,,
+1383579,Other Red Blends,Allegrini Valpolicella 2022,"Valpolicella, Veneto, Italy",0.0,0,21,17,$3.01,12
+1487031,Malbec,Bodega Cuarto Dominio Tolentino Single Vineyard Malbec 2022,"Mendoza, Argentina",0.0,0,12,17,$1.01,7
+1291421,Cabernet Sauvignon,Root 1 Cabernet Sauvignon 2022,"Colchagua Valley, Rapel Valley, Chile",0.0,0,,9,,
+1308132,Bordeaux Red Blends,Chateau Dauzac (Futures Pre-Sale) 2022,"Margaux, Bordeaux, France",0.0,0,,52,,
+1308000,Bordeaux Red Blends,Chateau Margaux (Futures Pre-Sale) 2022,"Margaux, Bordeaux, France",0.0,0,,709,,
+1457628,Pinot Noir,Joel Gott California Pinot Noir 2022,California,0.0,0,,19,,
+1338416,Pinot Noir,Mon Frere Pinot Noir 2022,California,0.0,0,,13,,
+1412953,Grenache,Anne Pichon Sauvage Cuvee Vieilles Vignes Grenache Noir 2022,"Cotes du Ventoux, Rhone, France",0.0,0,,19,,
+1308166,Bordeaux Red Blends,Chateau Ducru-Beaucaillou (Futures Pre-Sale) 2022,"St-Julien, Bordeaux, France",0.0,0,,244,,
+1487498,Cabernet Franc,Domaine de la Chanteleuserie Bourgueil Rouge Cuvee Alouettes 2022,"Bourgueil, Touraine, Loire, France",0.0,0,,19,,
+1436626,Grenache,A Tribute to Grace Grenache 2022,"Central Coast, California",0.0,0,,35,,
+1369430,Syrah/Shiraz,Maison Brotte Charles Brotte Grand Vallon Syrah 2022,"Vin de France, France",4.6,29,,9,,
+1309718,Bordeaux Red Blends,Chateau Gruaud Larose (Futures Pre-Sale) 2022,"St-Julien, Bordeaux, France",0.0,0,,99,,
+1308663,Bordeaux Red Blends,Chateau Peby Faugeres (Futures Pre-Sale) 2022,"St. Emilion, Bordeaux, France",0.0,0,,154,,
+1395234,Other Red Blends,Alvaro Palacios Camins del Priorat 2022,"Priorat, Spain",0.0,0,,31,,
+1369720,Gamay,Domaine Michel Tete Julienas Cuvee Tradition 2022,"Beaujolais, Burgundy, France",0.0,0,,23,,
+1307967,Bordeaux Red Blends,Chateau Les Ormes de Pez (Futures Pre-Sale) 2022,"St. Estephe, Bordeaux, France",0.0,0,,32,,
+1381306,Pinot Noir,Stoller Willamette Valley Pinot Noir 2022,"Dundee Hills, Willamette Valley, Oregon",0.0,0,,25,,
+1308535,Bordeaux Red Blends,Chateau Pavie (Futures Pre-Sale) 2022,"St. Emilion, Bordeaux, France",0.0,0,,405,,
+1220861,Pinot Noir,Cono Sur Organic Pinot Noir 2022,Chile,0.0,0,,14,,
+1380047,Syrah/Shiraz,Fram Wines Shiraz 2022,"Swartland, South Africa",4.8,9,,17,,
+1308002,Bordeaux Red Blends,Chateau Margaux Pavillon Rouge (Futures Pre-Sale) 2022,"Margaux, Bordeaux, France",0.0,0,,210,,
+1465090,Pinot Noir,EnRoute Winery Les Pommiers Pinot Noir 2022,"Russian River, Sonoma County, California",0.0,0,,59,,
+1414134,Cabernet Sauvignon,Natura Cabernet Sauvignon 2022,Chile,0.0,0,,16,,
+1342678,Lagrein,Elena Walch Lagrein 2022,"Alto Adige, Trentino-Alto Adige, Italy",0.0,0,,19,,
+788756,Bordeaux Red Blends,"10,000 Hours Red Blend 2019","Red Mountain, Yakima Valley, Columbia Valley, Washington",4.2,5,29,35,$5.01,14
+834207,Cabernet Sauvignon,"10,000 Hours Cabernet Sauvignon 2019","Red Mountain, Yakima Valley, Columbia Valley, Washington",4.1,27,29,35,$5.01,14
+729570,Bordeaux Red Blends,"10,000 Hours Red Blend 2018","Red Mountain, Yakima Valley, Columbia Valley, Washington",3.4,10,29,35,$5.01,14
+1247936,Zinfandel,1000 Stories Bourbon Barrel Aged Zinfandel 2021,California,4.0,12,15,19,$3.01,16
+1190032,Cabernet Sauvignon,1000 Stories Bourbon Barrel Aged Cabernet Sauvignon 2021,California,0.0,0,15,19,$3.01,16
+1299076,Other Red Blends,14 Hands Stampede Red Blend 2020,"Columbia Valley, Washington",4.1,6,11,12,$3.01,20
+1195036,Cabernet Sauvignon,14 Hands Cabernet Sauvignon 2020,"Columbia Valley, Washington",0.0,0,11,15,$3.01,20
+1070730,Other Red Blends,14 Hands Hot to Trot Red Blend 2020,"Columbia Valley, Washington",3.8,44,10,15,$2.01,15
+1176051,Merlot,14 Hands Merlot 2019,"Columbia Valley, Washington",3.8,6,14,17,$1.01,6
+1193738,Other Red Blends,19 Crimes Red Blend 2021,Australia,0.0,0,21,10,$3.01,12
+1068383,Cabernet Sauvignon,19 Crimes Cabernet Sauvignon 2021,Australia,3.9,38,,13,,
+1224122,Other Red Blends,19 Crimes Snoop Cali Red 2021,California,3.4,6,,16,,
+764496,Other Red Blends,19 Crimes Snoop Cali Red 2020,California,4.2,184,,16,,
+790703,Cabernet Sauvignon,1924 Double Black Cabernet Sauvignon 2020,"Lodi, California",4.0,33,,14,,
+1237385,Cabernet Sauvignon,1924 Double Black Cabernet Sauvignon 2021,"Lodi, California",4.2,6,,14,,
+1263991,Other Red Blends,1924 Double Black Red Blend 2021,"Lodi, California",0.0,0,,14,,
+1168980,Syrah/Shiraz,3 Rings Shiraz 2020,"Barossa Valley, Barossa, South Australia, Australia",0.0,0,,18,,
+1193096,Cabernet Sauvignon,7 Deadly Cabernet Sauvignon 2020,"Lodi, California",0.0,0,,16,,
+1194416,Zinfandel,7 Deadly Zins Zinfandel 2019,"Lodi, California",3.8,12,,16,,
+931216,Other Red Blends,7 Moons Red Blend 2020,Chile,4.2,22,,14,,
+584297,Mencia,A Portela Mencia 2016,"Valdeorras, Spain",3.5,6,,23,,
+974642,Pinot Noir,A to Z Essence Pinot Noir 2018,Oregon,0.0,0,,28,,
+1203741,Pinot Noir,A to Z Pinot Noir 2021,Oregon,0.0,0,,25,,
+1436626,Grenache,A Tribute to Grace Grenache 2022,"Central Coast, California",0.0,0,,35,,
+631908,Other Red Blends,Abadia Retuerta Seleccion Especial 2017,Spain,4.5,6,,41,,
+594112,Cabernet Sauvignon,Zuccardi Q Cabernet Sauvignon 2018,"Uco Valley, Mendoza, Argentina",3.7,9,44,21,$20.01,31
+1255450,Cabernet Sauvignon,Zuccardi Q Cabernet Sauvignon 2021,"Uco Valley, Mendoza, Argentina",0.0,0,33,21,$6.01,15
+1192852,Malbec,Zuccardi Jose Zuccardi Malbec 2018,"Uco Valley, Mendoza, Argentina",0.0,0,11,65,$5.01,29
+1308401,Malbec,Zuccardi Aluvional Gualtallary Malbec 2018,"Mendoza, Argentina",0.0,0,17,84,$2.01,10
+1232190,Malbec,Zuccardi Q Malbec 2021,"Uco Valley, Mendoza, Argentina",3.8,13,,21,,
+1009089,Malbec,Zuccardi Poligonos del Valle de Uco San Pablo Malbec 2020,"Uco Valley, Mendoza, Argentina",3.3,7,,31,,
+1136786,Malbec,Zuccardi Concreto Malbec 2021,"Uco Valley, Mendoza, Argentina",4.0,12,,40,,
+1369478,Malbec,Zuccardi Serie A Malbec 2022,"Uco Valley, Mendoza, Argentina",0.0,0,,17,,
+366970,Tempranillo,Zuccardi Q Tempranillo 2014,"Mendoza, Argentina",0.0,0,,21,,
+385384,Tempranillo,Zuccardi Q Tempranillo 2013,"Mendoza, Argentina",3.8,40,,21,,
+1223888,Cabernet Franc,Zorzal Gran Terroir Cabernet Franc 2021,"Uco Valley, Mendoza, Argentina",0.0,0,,19,,
+824875,Malbec,Zorzal Eggo Tinto de Tiza 2018,"Mendoza, Argentina",3.7,34,,22,,
+1417192,Malbec,Zorzal Eggo Tinto de Tiza 2019,"Mendoza, Argentina",0.0,0,,29,,
+1017810,Malbec,Zorzal Terroir Unico Malbec 2020,"Mendoza, Argentina",0.0,0,,12,,
+1177345,Pinot Noir,Zorzal Terroir Unico Pinot Noir 2021,"Mendoza, Argentina",0.0,0,,16,,
+936769,Malbec,Zorzal Gran Terroir Malbec 2020,"Uco Valley, Mendoza, Argentina",0.0,0,,20,,
+1307724,Pinot Noir,Zorzal Gran Terroir Pinot Noir 2020,"Uco Valley, Mendoza, Argentina",0.0,0,,19,,
+878447,Pinot Noir,Zorzal Gran Terroir Pinot Noir 2019,"Uco Valley, Mendoza, Argentina",3.9,38,,19,,
+1155685,Malbec,Zolo Malbec 2021,"Mendoza, Argentina",0.0,0,,13,,
+780141,Other Red Blends,Zolo Signature Red Blend 2020,"Mendoza, Argentina",3.9,6,,13,,
+1149849,Other Red Blends,ZOE Red 2021,"Other Peloponnese, Greece",0.0,0,,13,,
+1058449,Sangiovese,Ziobaffa Organic Toscana 2018,"Tuscany, Italy",4.0,122,,11,,
+839115,Grenache,Zestos Old Vine Garnacha 2020,"Vinos de Madrid, Spain",3.9,7,,11,,
+1500366,Grenache,Zestos Old Vine Garnacha 2021,"Vinos de Madrid, Spain",0.0,0,,12,,
+1230356,Other Red Blends,Zeni Marogne Valpolicella Superiore Ripasso 2020,"Valpolicella, Veneto, Italy",4.7,42,,19,,
