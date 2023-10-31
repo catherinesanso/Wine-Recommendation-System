@@ -15,7 +15,7 @@ Catherine Sanso <br>
 
 # [Background](#section-title)
 
-Recommendation systems, often referred to as recommender systems or recommendation engines, are a cornerstone of modern digital experiences. They are the algorithms behind personalized suggestions that we encounter in our daily online interactions, whether it's movie recommendations on Netflix, product suggestions on Amazon, or playlist recommendations on Spotify. These systems are designed to analyze and understand user preferences and behavior, enabling platforms to provide tailored content, products, or services.
+Recommendation systems, often referred to as recommender systems or recommendation engines, are a cornerstone of modern digital experiences. They are the algorithms behind personalized suggestions that we encounter in our daily online interactions, whether it's movie recommendations on Netflix, product suggestions on Amazon, or playlist recommendations on Spotify. These systems are designed to analyze and understand user preferences and behavior, enabling platforms to provide tailored content, products, or services. 
 
 There are several types of recommender systems, including popularity models, content-based filtering, and collaborative filtering, each with its unique approach to delivering personalized recommendations.
 - Popularity models rely on the wisdom of the crowd, recommending popular items to users.
